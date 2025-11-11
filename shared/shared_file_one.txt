@@ -1,0 +1,8 @@
+this is the share file
+feature one has the first few lines. 
+
+add one line in the middle. 
+end of feature one. 
+
+add feature one stuff here. 
+end of feature two. 
