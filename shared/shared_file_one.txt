@@ -6,3 +6,4 @@ end of feature one.
 
 add feature one stuff here. 
 end of feature two. 
+end of feature one. 
